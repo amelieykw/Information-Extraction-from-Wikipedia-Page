@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. EXERCISE 01 - exercise01.py
 
 command : python exercise01.py ./Wikipedia_corpus/Chiara_Mastroianni.txt
@@ -21,3 +22,6 @@ This command works on all the files created by the 1st exercise.
 command : python exercise04.py Chiara_Mastroianni_2.txt
 
 This command works on all the files created by the 1st exercise.
+=======
+# Information-Extraction-from-Wikipedia-Page
+>>>>>>> a0963455d2fc381c70cf0bd61c1674ddc9aadc17
