@@ -1,1 +1,0 @@
-# Information-Extraction-from-Wikipedia-Page
