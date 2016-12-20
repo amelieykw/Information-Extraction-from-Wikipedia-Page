@@ -1,0 +1,7 @@
+with open(sys.argv[1]) as file_in:
+	text = file_in.read().decode('UTF-8')
+
+# in terminal type:
+# python NEextraction.py Wikipedia/Benjamin_Biolay.txt Benjamin_Biolay	# was born in 
+# python NEextraction.py Wikipedia/Benjamin_Biolay.txt 'was born in'	# Pironi Villecresnes
+
